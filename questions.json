@@ -2984,6 +2984,146 @@
                 "explanation": "Tone should convey both understanding of the inconvenience and confidence in the solution, providing emotional balance that reassures without dismissing their concerns.",
                 "origin": "ai",
                 "date_generated": "2026-05-28"
+            },
+            {
+                "id": 1,
+                "question": "A customer keeps interrupting you while you're explaining a solution. Which active listening technique should you apply?",
+                "options": [
+                    "A) Speak louder to establish authority and finish your explanation",
+                    "B) Pause, acknowledge their concern, and ask clarifying questions before continuing",
+                    "C) Put them on hold until they calm down",
+                    "D) Immediately escalate the ticket to a supervisor"
+                ],
+                "correct_answer": "B",
+                "explanation": "Active listening during interruptions requires pausing to acknowledge the customer's urgency, validating their concern, and asking questions to understand what's most important to them before proceeding with your explanation.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 2,
+                "question": "A user says their 'hard drive is broken' but they're actually experiencing a software application crash. What's the best response?",
+                "options": [
+                    "A) Correct them immediately: 'That's not your hard drive, it's just an application issue'",
+                    "B) Ignore their terminology and proceed with troubleshooting",
+                    "C) Acknowledge their concern and gently guide: 'I understand you're having issues. Let me check what's happening with that application'",
+                    "D) Ask them to learn proper IT terminology before calling support"
+                ],
+                "correct_answer": "C",
+                "explanation": "When customers use incorrect jargon, avoid direct correction which can embarrass them. Instead, acknowledge their issue and naturally guide the conversation using correct terminology while focusing on solving their problem.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 3,
+                "question": "You've provided an ETR of 2 hours, but the issue is resolved in 30 minutes. What should you do?",
+                "options": [
+                    "A) Wait until the 2-hour mark to contact them so they don't expect fast service every time",
+                    "B) Immediately notify the customer of the early resolution",
+                    "C) Close the ticket without notifying them since it's fixed",
+                    "D) Use the extra time to work on other tickets first"
+                ],
+                "correct_answer": "B",
+                "explanation": "When resolving issues faster than the ETR, immediately inform the customer. This exceeds expectations, builds trust, and demonstrates efficiency. Delaying communication serves no purpose and may leave customers unnecessarily waiting.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 4,
+                "question": "A user requests administrative rights to install unauthorized software. How should you decline while maintaining the relationship?",
+                "options": [
+                    "A) 'No, that's against policy and I can't help you'",
+                    "B) 'I understand why you'd want that access. Due to security policies, I can't grant admin rights, but let me explore approved alternatives that might meet your needs'",
+                    "C) 'You should know better than to ask for that'",
+                    "D) Grant temporary access to keep the customer happy"
+                ],
+                "correct_answer": "B",
+                "explanation": "Saying 'no' effectively requires empathy, clear explanation of why, and offering alternatives. This approach acknowledges their need, explains the constraint without being dismissive, and shows willingness to find approved solutions.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 5,
+                "question": "An angry customer is shouting about a recurring issue. After letting them vent briefly, what's your next step?",
+                "options": [
+                    "A) Match their energy level to show you take it seriously",
+                    "B) Use a calm, steady voice to acknowledge their frustration and summarize the issue to show understanding",
+                    "C) Transfer them immediately to avoid confrontation",
+                    "D) Explain that you can't help unless they calm down"
+                ],
+                "correct_answer": "B",
+                "explanation": "After allowing brief venting, use a calm voice to de-escalate, acknowledge their frustration specifically, and summarize what you heard. This demonstrates active listening, validates their emotions, and helps shift focus to problem-solving.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 6,
+                "question": "Instead of saying 'We need to flush your DNS cache,' what's a better way to communicate this to a non-technical user?",
+                "options": [
+                    "A) 'We need to flush your DNS cache - just follow these steps'",
+                    "B) 'We need to clear some temporary internet settings that might be causing the connection issue'",
+                    "C) 'It's too technical to explain, just do what I say'",
+                    "D) 'Google DNS cache and do that'"
+                ],
+                "correct_answer": "B",
+                "explanation": "Avoiding tech speak means translating technical terms into concepts users understand. Describing DNS cache as 'temporary internet settings' relates to something familiar and explains the purpose without overwhelming them with jargon.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 7,
+                "question": "You need to place a customer on hold for the third time during the same call to consult documentation. What should you do?",
+                "options": [
+                    "A) Place them on hold without explanation since you already did it twice",
+                    "B) Apologize for the additional hold, explain specifically what you're checking, ask permission, and offer a callback option instead",
+                    "C) Transfer the call to someone more knowledgeable",
+                    "D) Make your best guess to avoid another hold"
+                ],
+                "correct_answer": "B",
+                "explanation": "Multiple holds frustrate customers. Each time requires renewed permission, specific explanation, and acknowledgment of the inconvenience. After multiple holds, offering a callback shows respect for their time and can improve the experience.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 8,
+                "question": "A customer explains that this IT issue is preventing them from completing a time-sensitive project for their manager. How do you demonstrate empathy?",
+                "options": [
+                    "A) 'I understand this is frustrating. Many users experience this issue'",
+                    "B) 'Everyone has urgent issues. You'll need to wait your turn'",
+                    "C) 'I can see how stressful this must be with your deadline approaching. Let me prioritize getting you back to work as quickly as possible'",
+                    "D) 'That's unfortunate, but I have to follow the ticket queue'"
+                ],
+                "correct_answer": "C",
+                "explanation": "True empathy requires acknowledging the specific impact on the individual, not just the technical problem. Recognizing their deadline stress and committing to action shows you understand the real-world consequences of the issue.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 9,
+                "question": "Before closing a ticket where you've resolved a complex email issue, what should you include?",
+                "options": [
+                    "A) 'Your issue is fixed. Ticket closed.'",
+                    "B) Confirm resolution, ask if they have questions, briefly explain what was fixed, provide a reference number, and invite them to reach out if issues recur",
+                    "C) Just close the ticket since the issue is resolved",
+                    "D) Ask them to test it and call back if there are problems"
+                ],
+                "correct_answer": "B",
+                "explanation": "Proper ticket closure includes confirming the fix works, ensuring understanding, providing documentation (reference number), empowering them with knowledge about what was fixed, and leaving the door open for follow-up. This ensures true resolution and customer satisfaction.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
+            },
+            {
+                "id": 10,
+                "question": "You're providing phone support and need to deliver news that a data recovery will take 3 days longer than expected. How does tone of voice impact this message?",
+                "options": [
+                    "A) Tone doesn't matter if the information is accurate",
+                    "B) A rushed, matter-of-fact tone shows efficiency",
+                    "C) A steady, apologetic tone with appropriate pacing shows professionalism and empathy, helping to mitigate disappointment",
+                    "D) An overly cheerful tone will make them feel better about the delay"
+                ],
+                "correct_answer": "C",
+                "explanation": "When delivering bad news, tone conveys empathy and professionalism as much as words do. A steady, sincere, apologetic tone with proper pacing allows the customer to process disappointing information while feeling heard and respected, reducing negative reactions.",
+                "origin": "ai",
+                "date_generated": "2026-05-28"
             }
         ],
         "Ticket Management": [
